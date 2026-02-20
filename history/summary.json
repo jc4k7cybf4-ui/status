@@ -16,7 +16,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2026-02-20": 0
+      "2026-02-20": 4
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-02-20": 0
+      "2026-02-20": 4
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 12,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2026-02-20": 0
+      "2026-02-20": 4
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.maxyservice.com.ico",
     "slug": "supabase-database",
     "status": "down",
-    "uptime": "3.80%",
-    "uptimeDay": "3.80%",
-    "uptimeWeek": "3.80%",
-    "uptimeMonth": "3.80%",
-    "uptimeYear": "3.80%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 11,
     "timeDay": 11,
     "timeWeek": 11,
     "timeMonth": 11,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2026-02-20": 0
+      "2026-02-20": 4
     }
   }
 ]
