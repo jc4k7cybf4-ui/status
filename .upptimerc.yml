@@ -1,7 +1,5 @@
 owner: jc4k7cybf4-ui
 repo: status
-user-agent: MaxyService-StatusBot/1.0
-
 sites:
   - name: MaxyService
     url: https://maxyservice.com
