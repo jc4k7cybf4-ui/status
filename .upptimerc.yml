@@ -1,31 +1,18 @@
 owner: jc4k7cybf4-ui
 repo: status
+user-agent: MaxyService-StatusBot/1.0
 
 sites:
+  - name: MaxyService
+    url: https://maxyservice.com
+    maxResponseTime: 5000
   - name: MaxyService App
     url: https://app.maxyservice.com
     maxResponseTime: 5000
-    headers:
-      - "User-Agent: Upptime/1.41.0"
-  - name: MaxyService Website
-    url: https://maxyservice.com
-    maxResponseTime: 5000
-    headers:
-      - "User-Agent: Upptime/1.41.0"
-  - name: MaxyService API
+  - name: API Health
     url: https://app.maxyservice.com/api/health
     expectedStatusCodes:
       - 200
-    headers:
-      - "User-Agent: Upptime/1.41.0"
-  - name: Supabase Database
-    url: https://app.maxyservice.com/api/heartbeat
-    method: POST
-    expectedStatusCodes:
-      - 200
-      - 401
-    headers:
-      - "User-Agent: Upptime/1.41.0"
 
 assignees:
   - jc4k7cybf4-ui
@@ -43,8 +30,6 @@ status-website:
       href: /
     - title: MaxyService
       href: https://maxyservice.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: Active Incidents
